@@ -1,19 +1,25 @@
-Título: Proyecto Sensor de Temperatura N1
+Sensor de Temperatura N1
 
 Introducción:
-En este proyecto, evaluaremos la funcionalidad de un sensor de temperatura utilizando Arduino. El objetivo es examinar su comportamiento bajo diferentes condiciones de temperatura.
+En este proyecto, evaluaremos la funcionalidad de un sensor de temperatura utilizando Arduino. 
+El objetivo es examinar su comportamiento bajo diferentes condiciones de temperatura.
 
 Materiales:
 Resistencias (2 de 150 ohm, una de 100 ohm)
 Sensor LM35 (sensor de temperatura con módulo)
 LEDs (dos verdes, dos rojos)
 Buzzer
-Arduino Uno
 Cables
+Protoboard
+Arduino Uno
 
 Resumen del Proyecto:
-El proyecto basado en Arduino Uno incorpora LEDs verdes y rojos junto con un zumbador. En condiciones normales, cuando la temperatura se mantiene por debajo de un cierto umbral, los LEDs verdes permanecen iluminados. Sin embargo, cuando la temperatura supera el umbral predefinido, indicando un posible riesgo de incendio, los LEDs verdes se apagan mientras que los LEDs rojos se iluminan, acompañados de una alarma audible del zumbador.
+El proyecto basado en Arduino Uno incorpora LEDs verdes y rojos junto con un zumbador. 
+En condiciones normales, cuando la temperatura se mantiene por debajo de un cierto umbral, los LEDs verdes permanecen iluminados. 
+Sin embargo, cuando la temperatura supera el umbral predefinido, indicando un posible riesgo de incendio, los LEDs verdes se apagan mientras que los LEDs rojos se iluminan, acompañados de una alarma audible del zumbador.
 
 Repositorio en GitHub:
-La descripción del proyecto se ha cargado en GitHub, presentando una visión general concisa de los objetivos y la funcionalidad del proyecto. Además, se ha incluido una guía paso a paso para ensamblar el prototipo en la sección "IMAGES", proporcionando ayuda visual para los usuarios. Además, el código de Arduino necesario se ha proporcionado en la sección "CODE" para un acceso conveniente.
+La descripción del proyecto se ha cargado en GitHub, presentando una visión general concisa de los objetivos y la funcionalidad del proyecto. 
+Además, se ha incluido una guía paso a paso para ensamblar el prototipo en la sección "IMAGES", proporcionando ayuda visual para los usuarios. 
+Además, el código de Arduino necesario se ha proporcionado en la sección "CODE" para un acceso conveniente.
 
